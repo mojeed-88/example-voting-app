@@ -1,4 +1,4 @@
-# Example Voting App
+# Voting App Project
 
 A simple distributed application running across multiple Docker containers.
 
